@@ -34,7 +34,7 @@ Parker app uses a number of open source projects to work properly:
 
 just put database credentials in include/Config.php file
 
-# credit: 
+## Credit
 Omar: https://github.com/omarauf/
 Fares: https://github.com/Drooz
 
